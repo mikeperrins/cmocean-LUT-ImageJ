@@ -1,2 +1,2 @@
-# CMOcean_LUTs
-Copy and paste these into an ImageJ or Fiji lut folder
+# cmocean-LUT-ImageJ
+Place these within the ImageJ or Fiji lut folder and refresh menus
